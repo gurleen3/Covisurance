@@ -5,20 +5,20 @@
     "main.js.map": "/Covisurance/static/js/main.f21bc7b8.chunk.js.map",
     "runtime-main.js": "/Covisurance/static/js/runtime-main.80ae0f5e.js",
     "runtime-main.js.map": "/Covisurance/static/js/runtime-main.80ae0f5e.js.map",
-    "static/js/2.d4b617af.chunk.js": "/Covisurance/static/js/2.d4b617af.chunk.js",
-    "static/js/2.d4b617af.chunk.js.map": "/Covisurance/static/js/2.d4b617af.chunk.js.map",
+    "static/js/2.12cbce7a.chunk.js": "/Covisurance/static/js/2.12cbce7a.chunk.js",
+    "static/js/2.12cbce7a.chunk.js.map": "/Covisurance/static/js/2.12cbce7a.chunk.js.map",
     "static/js/3.2aa20572.chunk.js": "/Covisurance/static/js/3.2aa20572.chunk.js",
     "static/js/3.2aa20572.chunk.js.map": "/Covisurance/static/js/3.2aa20572.chunk.js.map",
     "static/js/4.dbef1b47.chunk.js": "/Covisurance/static/js/4.dbef1b47.chunk.js",
     "static/js/4.dbef1b47.chunk.js.map": "/Covisurance/static/js/4.dbef1b47.chunk.js.map",
     "index.html": "/Covisurance/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/Covisurance/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d4b617af.chunk.js.LICENSE.txt": "/Covisurance/static/js/2.d4b617af.chunk.js.LICENSE.txt",
+    "static/js/2.12cbce7a.chunk.js.LICENSE.txt": "/Covisurance/static/js/2.12cbce7a.chunk.js.LICENSE.txt",
     "static/js/3.2aa20572.chunk.js.LICENSE.txt": "/Covisurance/static/js/3.2aa20572.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.80ae0f5e.js",
-    "static/js/2.d4b617af.chunk.js",
+    "static/js/2.12cbce7a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f21bc7b8.chunk.js"
   ]
